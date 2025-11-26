@@ -1,0 +1,95 @@
+---
+title: "Mechanic Service Call: 2013 Bryant 233X"
+author: "Hank (Prepared by Bryant 233X Marine Assistant)"
+date: "2025-11-04"
+format: 
+  pdf:
+    theme: cosmo
+    toc: true
+---
+
+## 📞 Call Objective (11/04/2025)
+
+This checklist is to ensure I get complete and accurate quotes for all **Critical Maintenance & To-Do List** items. The goal is to diagnose immediate safety issues and schedule mandatory pre-season replacements.
+
+---
+
+## 1. Core Asset Profile (For Mechanic's Reference)
+
+* **Vessel:** 2013 Bryant 233 X ("Surf Edition")
+* **Engine:** Mercruiser 350 MAG (300hp)
+* **Cooling:** Raw Water Cooled (RWC)
+* **Drive:** Mercruiser Bravo III (Dual-prop)
+* **Critical System:** 3-Bag Factory Ballast System (must be winterized)
+
+---
+
+## 2. Primary Service & Quote Items (CRITICAL)
+
+These are the non-negotiable items for the call.
+
+### A. Stiff Steering Diagnosis (Top Priority)
+
+* **Symptom:** "The steering is extremely stiff at the helm, making it difficult to turn the wheel."
+* **Diagnostic Ask:** "When you have the boat, please **disconnect the steering cable from the engine's tiller arm** to isolate the problem."
+* **Quote Needed:** I need two quotes based on that diagnosis:
+    1.  Quote to **replace the steering cable** (if the wheel is still stiff when disconnected).
+    2.  Quote to **address the gimbal ring swivel shaft** (if the wheel turns freely and the problem is at the outdrive).
+
+### B. Manifold & Riser Replacement (Mandatory)
+
+* **Job:** "I need a quote to replace the exhaust manifolds and risers. They are the 12-year-old originals and must be replaced before next season."
+* **Key Question (Parts):** "Is your quote for **OEM Mercruiser parts** or **aftermarket** (like Barr, Osco, etc.)? I would like to see the price for both if possible."
+* **Key Question (Labor):** "Please confirm the quote includes all **new gaskets and mounting bolts**."
+* **Quote Needed:** Price for Parts (OEM vs. Aftermarket) + Estimated Labor Hours.
+
+:::{.call-out-note}
+**First Mate's Note:** Given our goal of long-term reliability, OEM Mercruiser parts are highly preferred.
+:::
+
+### C. Full Winterization
+
+* **Job:** "I need a quote for a complete winterization."
+* **Engine Ask:** "What is your process for draining the 350 MAG RWC block and manifolds, and then running marine antifreeze (pink) through?"
+* **Ballast Ask (Crucial):** "Crucially, what is your process for fully draining the **3-bag factory ballast system**? This includes all pumps, lines, and bags."
+* **Fuel Ask:** "Does your service include adding **marine fuel stabilizer** to the 49-gallon tank and running it through the engine?"
+* **Quote Needed:** All-in price for full winterization service.
+
+---
+
+## 3. "While You're At It" (Diagnostics)
+
+"While you have the boat for the winterization and other quotes, please provide a simple diagnosis or check on these items:"
+
+* **Bilge Float Switch (Critical):** "Please test the automatic bilge float switch. It is a primary safety system and its function is unknown."
+* **Throttle Cable:** "The throttle is sticking at idle. Can you inspect it, lubricate it, and confirm if the stiffness is in the cable or at the throttle body?"
+* **Trailer Tires:** "Please check the 4-digit date codes on all four main trailer tires. They are old, and I need to know their manufacturing date to plan for replacement."
+
+---
+
+## 4. Quotes & Notes
+
+* **Mechanic Shop:** ___________________________
+* **Contact:** ___________________________
+
+### Quotes:
+* **Steering Diagnosis:** _________________________________
+    * *Quote (Cable):* $________________
+    * *Quote (Gimbal):* $________________
+* **Manifolds (OEM Parts + Labor):** $________________
+* **Manifolds (Aftermarket + Labor):** $________________
+* **Winterization (Full, incl. Ballast):** $________________
+
+### Diagnostics:
+* **Bilge Float Switch:** (Good / Bad / Replace) ______________
+* **Throttle Cable:** (Needs Lube / Needs Replace) ______________
+* **Tire Date Codes:**
+    * *Driver Front:* ______
+    * *Driver Rear:* ______
+    * *Pass. Front:* ______
+    * *Pass. Rear:* ______
+
+### Scheduling:
+* **Shop Labor Rate:** $________ / hour
+* **Next Available Service Date:** ___________________________
+* **Estimated Turnaround Time:** ___________________________

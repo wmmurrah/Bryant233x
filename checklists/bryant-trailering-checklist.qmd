@@ -1,0 +1,82 @@
+---
+title: "Bryant 233X & Magic Tilt Trailer: Trailering Checklist"
+subtitle: "Vessel: 2013 Bryant 233X | Trailer: 2016 Magic Tilt Tandem"
+author: "Hank's Marine Assistant (Bryant 233X)"
+date: "11/03/2025"
+format: 
+  pdf:
+    fontsize: 11pt
+    geometry: "margin=1in"
+    toc: false
+---
+
+\
+A professional, repeatable checklist to ensure safety and prevent common trailering failures. Perform these checks every time.
+
+---
+
+## 1. Pre-Departure (At Home/Storage)
+
+### Boat & Trailer Prep
+* [ ] **Drain Plugs:** Confirm **ALL** drain plugs are **IN** (especially the main hull plug).
+* [ ] **Outdrive:** Tilt Bravo III outdrive **UP** to "Trailer" position.
+* [ ] **Gear:** Secure all loose gear inside boat (cushions, PFDs, covers).
+* [ ] **Bimini:** Bimini top is down and secured in its boot.
+* [ ] **Bow:** Secure **bow winch strap** AND **bow safety chain**.
+* [ ] **Trailer Tongue** Secure folding tongue in towing position.
+* [ ] **Stern (CRITICAL):** Secure two (2) **transom ratchet straps** from the trailer frame to the boat's stern tie-down eyes.
+
+### Tires & Spares
+* [ ] **Visual Insp.:** Visually inspect 4 trailer tires (cracks, bulges).
+* [ ] **Pressure (Trailer):** Check pressure on all 4 trailer tires (Confirm PSI on sidewall, likely **50 PSI** cold).
+* [ ] **Pressure (Truck):** Check pressure on F-150's rear tires (adjust for load).
+* [ ] **Pressure (Spare):** Check pressure on spare trailer tire.
+* [ ] **Spares Kit Loaded:** Confirm spares are in the F-150:
+    * [ ] Spare Tire
+    * [ ] Trailer-Aid Ramp
+    * [ ] **Hub Toolbox** (containing pre-greased hub assemblies, jack, lug wrench, grease gun, and rags).
+
+---
+
+## 2. Hook-Up (Connecting to F-150)
+
+* [ ] **Hitch:** Lower trailer coupler onto the F-150's **2" ball**.
+* [ ] **Latch:** Secure the coupler latch.
+* [ ] **Lock:** Insert the **coupler safety pin or lock** (DO NOT FORGET).
+* [ ] **Chains:** Connect both safety chains, **crossed in an "X"** under the tongue.
+* [ ] **Jack:** Raise the trailer tongue jack *all the way* and swing to its horizontal, stowed position.
+* [ ] **Electrical:** 1.  Connect **7-way (truck) to 5-pin (trailer) adapter** to the F-150.
+    2.  Connect the trailer's **5-pin flat plug** to the adapter.
+
+---
+
+## 3. Final Walk-Around (The "Pre-Flight")
+
+### Truck Systems Check (Vehicle On)
+* [ ] **Tow Mode:** Activate **"Tow/Haul" Mode** on the F-150 dashboard.
+* [ ] **Lights:** Test running lights, brake lights, and both turn signals.
+* [ ] **Reverse Lockout (CRITICAL):** Foot on brake, shift F-150 to **Reverse**. Listen for an audible **"CLICK"** from the trailer tongue. This is the 5th-pin solenoid engaging.
+    * *No click? Your surge brakes will lock when you try to reverse. Stop and diagnose the 7-to-5 adapter or wiring.*
+
+### Final Securement Check (Walk-Around)
+* [ ] Coupler latched and pinned?
+* [ ] Chains crossed?
+* [ ] Electrical plugged in?
+* [ ] Trailer jack up?
+* [ ] Transom straps tight?
+* [ ] Bow strap & chain tight?
+* [ ] Outdrive tilted UP?
+* [ ] Nothing loose in boat or truck bed?
+* [ ] Spares kit loaded?
+* [ ] All chocks, charging cords removed
+---
+
+## 4. On-the-Road Procedure
+
+* **Drive Defensively:** You are 5,000+ lbs heavier. Make wide turns and **double** your normal stopping distance.
+* **First 30-Minute Stop (CRITICAL):**
+    * Pull over at a safe location (rest stop, gas station).
+    * Carefully feel all 4 trailer wheel hubs. They should be warm, but **NEVER so hot you can't hold your hand on them.**
+    * *(A "screaming hot" hub = bearing failure is imminent).*
+    * Re-check transom and bow straps for tightness.
+

@@ -1,0 +1,56 @@
+---
+title: "Captain's Pre-Launch Safety Briefing"
+subtitle: "2013 Bryant 233 X"
+author: "Hank Murrah"
+format: 
+  pdf:
+    documentclass: article
+    fontsize: 11pt
+    geometry: "margin=1in"
+---
+
+## Captain's Welcome
+
+"Alright, folks, welcome aboard! We're going to have an awesome day out on Lake Martin. Before we head out, I need everyone's attention for a couple of minutes. As captain of this boat, my \#1 job is to make sure every single one of us comes back to this dock safe and sound. So, let's quickly go over the rules of the road."
+
+\rule{\linewidth}{0.5pt}
+
+## 1. The Most Important Thing: Life Jackets (PFDs)
+
+"First, life jackets. We have more than enough for everyone on board."
+
+* **Kids:** "Alabama law is crystal clear. Any child **under 8 years old** has to wear a USCG-approved life jacket, zipped up and buckled, *at all times* while this boat is moving. This is non-negotiable."
+
+* **Adults:** "You'll find all the adult-sized vests stowed right here [point to the storage locker]. You aren't required to wear one, but I want every single one of you to know where they are. If you're not a strong swimmer, or if you'd just feel more comfortable, please put one on."
+
+* **Throwable:** "You see this square cushion? [Hold it up]. This is our throwable flotation device. It is *not* a seat cushion. If someone falls in, this is what we throw to them."
+
+## 2. Rules of the Boat (While We're Moving)
+
+"This is a fast boat, and the water can be unpredictable. I have a few firm rules when the engine is on:"
+
+1.  **The "One Hand for the Boat" Rule.** "This is an old sailor's rule and a great one. Any time you are standing or moving around, even when we're idling, please try to keep *one hand on a fixed part of the boat*—a grab rail, the windshield frame, or the tower. It keeps you stable."
+
+2.  **Everyone Needs a Seat When Planing.** "As soon as we speed up, everyone needs to be in a proper, cushioned seat. No sitting on the edge of the boat, on the engine cover [point to the sun pad], or on the swim platform while we're underway."
+
+3.  **My "WAKE!" Command.** "Lake Martin is a big lake, and we will cross wakes from other boats. I'll do my best to slow down, but sometimes a wave can surprise us. If you hear me call out **"WAKE!"** or **"CHOP!"** that is your signal to **immediately sit down** in the nearest seat. This is the \#1 way we prevent falls."
+
+4.  **Arms and Legs Inside.** "Especially when we're coming up to a dock. Never, *ever* use your hands or feet to stop the boat. That's what these fenders are for."
+
+5.  **The Propeller is the Danger.** "When this engine is on, even at idle, the propeller is extremely dangerous. We have a simple rule: **Engine off, people in. Engine on, people out.** Nobody gets in the water until I have shut the engine completely off and given the 'all clear'."
+
+## 3. What to Do in an Emergency
+
+"This is the part that will never happen, but we're going to be ready for it anyway."
+
+* **Man Overboard!** "If someone falls out of the boat, I need every single person who saw it to point at them. Yell **"MAN OVERBOARD!"** as loud as you can, and *do not take your eyes off that person*. Just keep pointing. I will handle getting the boat turned around."
+
+* **Fire!** "We have a new fire extinguisher right here [point to its location]. If you see smoke or fire, yell "FIRE!" and point to it."
+
+* **First Aid:** "We have a full first-aid kit right here [point to it]. Let me know immediately if you get a cut or feel sick."
+
+## 4. The "Maiden Voyage" Part
+
+"Last, this is a new-to-me boat. I'm still learning its personality. Be my extra set of eyes and ears. If you see something in the water or hear a funny noise, sing out."
+
+"Alright, that's it! Stow your gear, let's have some fun."

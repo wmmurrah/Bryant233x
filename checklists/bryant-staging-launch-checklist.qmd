@@ -1,0 +1,55 @@
+---
+title: "Bryant 233X: Ramp Staging & Launching Checklist"
+subtitle: "Vessel: 2013 Bryant 233X | Mercruiser 350 MAG (RWC)"
+author: "Hank's Marine Assistant (Bryant 233X)"
+date: "11/03/2025"
+format: 
+  pdf:
+    fontsize: 11pt
+    geometry: "margin=1in"
+    toc: false
+---
+
+\
+This process, executed in the staging area *before* approaching the ramp, ensures a safe, fast, and professional launch.
+
+---
+
+## 1. Staging Area Prep (The "Dry Run")
+
+**Location:** Perform these steps in the parking lot or staging area, *not* on the ramp.
+
+* [ ] **Confirm Drain Plugs:** Final visual check that **ALL** drain plugs are **IN**.
+* [ ] **Disconnect Straps (CRITICAL):**
+    * [ ] Remove both **transom ratchet straps**.
+    * [ ] Remove the **bow safety chain**.
+    * [ ] **LEAVE the bow winch strap** connected and snug. This is now the only thing holding the boat to the trailer.
+* [ ] **Load Gear:** Load coolers, bags, and all remaining gear from the F-150 into the boat.
+* [ ] **Prep Lines & Fenders:**
+    * [ ] Deploy fenders on the "dock side" of the boat.
+    * [ ] Have bow and stern dock lines untangled and ready on cleats.
+* [ ] **Lower Outdrive (CRITICAL):**
+    * [ ] Use the trim switch to **lower the Bravo III outdrive** all the way down (full "in" position).
+    * *Note: This is mandatory. The Raw Water Cooled engine needs the drive down to draw water immediately on startup, or the impeller will be destroyed.*
+* [ ] **Power On:** Turn the main **battery switch** to the "ON" position.
+* [ ] **Blower & Sniff Test (CRITICAL SAFETY STEP):**
+    * [ ] Turn key to "ON" (do not start).
+    * [ ] Run the **engine bay blower for at least 4-5 minutes.**
+    * [ ] **Open the engine hatch and perform a "sniff test"** for any fuel fumes.
+* [ ] **Brief Engine Test (Optional, but Recommended):**
+    * [ ] *After* the sniff test, start the engine for 5-10 seconds.
+    * [ ] Confirm water is "peeing" from the outdrive (verifies water pump).
+    * [ ] Shut engine off.
+* [ ] **Disconnect Trailer Electrical:** Unplug the **7-to-5-pin adapter** from the F-150. This prevents cold water from cracking hot trailer light bulbs.
+
+---
+
+## 2. On the Ramp (The "Launch")
+
+This phase should be fast, quiet, and precise.
+
+* [ ] **Communicate:** Confirm the plan with your driver/helper.
+* [ ] **Back In:** Slowly back the trailer down the ramp. A good target is when the trailer fenders just start to go underwater or the boat's stern begins to float.
+* [ ] **Set Brake (CRITICAL):** Put the F-150 in **Park** and set the **parking brake firmly.**
+* [ ] **Board & Start:**
+    * [ ] Captain boards the boat.
