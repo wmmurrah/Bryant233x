@@ -1,0 +1,22 @@
+---
+title: "Bryant 233x Maintenance Todos"
+format: html
+editor: visual
+---
+
+# Maintenance To-Do List
+
+This document tracks maintenance tasks for the Bryant 233x boat, including their priority and current status.
+
+| To-Do Item | Priority | Status | Notes |
+|:----------------|:----------------|:----------------|:---------------------|
+| Check engine oil | High | Pending | Before every outing |
+| Inspect trailer tires | Medium | Pending | Before every tow |
+| Winterize engine | High | Completed | Done in Fall 2025 by 280 Marine |
+| Replace starter battery | Medium | Pending | Battery is 3 years old |
+| Clean bilge | Low | In Progress |  |
+| Check navigation lights | Medium | Pending | Ensure all lights are functional |
+| Wax hull | Low | Pending | Annually, usually in Spring |
+| Check prop for damage | High | Pending | After every outing, if shallow water used |
+| Inspect trailer lights | Medium | Pending | Before every tow |
+| Flush engine after saltwater use | High | Pending | Critical for engine longevity |
