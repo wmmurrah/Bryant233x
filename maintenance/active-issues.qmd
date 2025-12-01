@@ -1,0 +1,21 @@
+---
+title: "Bryant 233x Active Issues & Tasks"
+format: html
+editor: visual
+---
+
+# Active Issues & Maintenance Tasks
+
+Derived from the Bryant 233X Marine Assistant logs.
+
+| Item | Status | Priority | Action / Notes |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **Bilge Float Switch** | 🔴 Unknown | **CRITICAL** | **Test before launch.** Verify automatic function. |
+| **Trailer Tires** | 🔴 Inspect | **CRITICAL** | Check 4-digit Date Codes on sidewalls. If \>6 years old, replace immediately. |
+| **Steering Cable** | 🟡 Quoted | High | Stiff operation. Needs replacement. Quote pending/received from Jim \@ 280 Marine. |
+| **Trim Gauge** | 🟡 Quoted | Medium | Diagnosis confirmed faulty dashboard gauge. Quote from Jim \@ 280 Marine. |
+| **Docking Lights** | 🔴 Broken | Low | Starboard light inoperative. Bulb good, likely wiring/ground fault. |
+| **Manifolds & Risers** | 🟡 Monitor | Low | Original hardware (12 yrs). Freshwater history. Plan "Joint Inspection" next off-season. Monitor temps. |
+| **Mooring Cover** | 🟢 Patched | Low | Rip patched with Gorilla Tape. Replacement deferred 1-2 seasons. |
+| **Throttle/Shift Feel** | 🟢 Resolved | Closed | Verified by Jim \@ 280 Marine as standard wear/design. |
+| **Winterization 2025** | 🟢 Completed | Closed | Engine block drained, propylene glycol run, ballast pumps cleared. |

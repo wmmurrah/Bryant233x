@@ -9,7 +9,7 @@ editor: visual
 This document tracks maintenance tasks for the Bryant 233x boat, including their priority and current status.
 
 | To-Do Item | Priority | Status | Notes |
-|:----------------|:----------------|:----------------|:---------------------|
+|:----------------|:----------------|:----------------|:--------------------|
 | Check engine oil | High | Pending | Before every outing |
 | Inspect trailer tires | Medium | Pending | Before every tow |
 | Winterize engine | High | Completed | Done in Fall 2025 by 280 Marine |
