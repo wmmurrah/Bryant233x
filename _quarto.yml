@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Bryant 233x Boat Management"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+      - text: Maintenance
+        menu:
+          - href: maintenance/active-issues.qmd
+            text: Active Issues
+          - href: maintenance/maintenance-todos.qmd
+            text: To-Do List
+          - href: maintenance/trailer.qmd
+            text: Trailer Profile
+          - href: maintenance/project-guideposts.qmd
+            text: "Project: Guideposts"
+      - text: Checklists
+        menu:
+          - href: checklists/bryant-staging-launch-checklist.qmd
+            text: Staging & Launch
+          - href: checklists/bryant-trailering-checklist.qmd
+            text: Trailering
+          - href: checklists/safety-briefing.qmd
+            text: Safety Briefing
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

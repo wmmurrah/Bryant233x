@@ -12,7 +12,7 @@ Derived from the Bryant 233X Marine Assistant logs.
 |:-----------------|:-----------------|:-----------------|:-----------------|
 | **Bilge Float Switch** | 🔴 Unknown | **CRITICAL** | **Test before launch.** Verify automatic function. |
 | **Trailer Tires** | 🔴 Inspect | **CRITICAL** | Check 4-digit Date Codes on sidewalls. If \>6 years old, replace immediately. |
-| **Steering Cable** | 🟡 Quoted | High | Stiff operation. Needs replacement. Quote pending/received from Jim \@ 280 Marine. |
+| **Steering Cable** | 🟢 Completed | Closed | Replaced. Invoice: maintenance/280_Marine/steeringCableReplacement1204_280Marine.pdf
 | **Trim Gauge** | 🟡 Quoted | Medium | Diagnosis confirmed faulty dashboard gauge. Quote from Jim \@ 280 Marine. |
 | **Docking Lights** | 🔴 Broken | Low | Starboard light inoperative. Bulb good, likely wiring/ground fault. |
 | **Manifolds & Risers** | 🟡 Monitor | Low | Original hardware (12 yrs). Freshwater history. Plan "Joint Inspection" next off-season. Monitor temps. |

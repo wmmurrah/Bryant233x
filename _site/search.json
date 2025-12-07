@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "GEMINI.html",
+    "href": "GEMINI.html",
+    "title": "GEMINI.md: Bryant 233x Boat Management",
+    "section": "",
+    "text": "This directory appears to be for the personal management and documentation of a 2013 Bryant 233x boat. It contains checklists for operation, official documentation like bills of sale, insurance and maintenance records, and pictures. The owner’s name appears to be Hank Murrah, and the boat is primarily used on Lake Martin.\n\n\n\n\nBryant233MarineAssistant.md: This is the primary knowledge base file for this project. It contains detailed operational, maintenance, and system-specific information for the Bryant 233x boat. This file should be used as the main context for any AI assistant interactions.\n\n\n\n\n\nchecklists/: This directory contains Quarto (.qmd) source files and their rendered PDF versions for various boat operations.\n\nbryant-staging-launch-checklist.qmd: A detailed checklist for preparing the boat for launch at the ramp.\nbryant-trailering-checklist.qmd: A checklist for safely trailering the boat with a Ford F-150 and a 2016 Magic Tilt Tandem trailer.\nsafety-briefing.qmd: A script for the captain’s pre-launch safety briefing for passengers.\n\ndocumentation/: Contains official records for the boat and trailer. This includes what appears to be a bill of sale and registration documents.\ninsurance/: Contains the boat’s insurance documents.\nmaintenance/: Contains maintenance records for the boat. This includes records from “280 Marine” and “Harris Performance”.\npictures/: Contains photos of the boat, including pictures of the house and starter batteries.\n\n\n\n\nThis directory is used as a central repository for all information related to the Bryant 233x boat. The checklists can be used to ensure safe and repeatable operations, and the other directories provide a place to store important records. The .qmd files in the checklists directory can be edited and re-rendered to produce updated PDF checklists."
+  },
+  {
+    "objectID": "GEMINI.html#directory-overview",
+    "href": "GEMINI.html#directory-overview",
+    "title": "GEMINI.md: Bryant 233x Boat Management",
+    "section": "",
+    "text": "This directory appears to be for the personal management and documentation of a 2013 Bryant 233x boat. It contains checklists for operation, official documentation like bills of sale, insurance and maintenance records, and pictures. The owner’s name appears to be Hank Murrah, and the boat is primarily used on Lake Martin."
+  },
+  {
+    "objectID": "GEMINI.html#context-knowledge",
+    "href": "GEMINI.html#context-knowledge",
+    "title": "GEMINI.md: Bryant 233x Boat Management",
+    "section": "",
+    "text": "Bryant233MarineAssistant.md: This is the primary knowledge base file for this project. It contains detailed operational, maintenance, and system-specific information for the Bryant 233x boat. This file should be used as the main context for any AI assistant interactions."
+  },
+  {
+    "objectID": "GEMINI.html#key-files-directories",
+    "href": "GEMINI.html#key-files-directories",
+    "title": "GEMINI.md: Bryant 233x Boat Management",
+    "section": "",
+    "text": "checklists/: This directory contains Quarto (.qmd) source files and their rendered PDF versions for various boat operations.\n\nbryant-staging-launch-checklist.qmd: A detailed checklist for preparing the boat for launch at the ramp.\nbryant-trailering-checklist.qmd: A checklist for safely trailering the boat with a Ford F-150 and a 2016 Magic Tilt Tandem trailer.\nsafety-briefing.qmd: A script for the captain’s pre-launch safety briefing for passengers.\n\ndocumentation/: Contains official records for the boat and trailer. This includes what appears to be a bill of sale and registration documents.\ninsurance/: Contains the boat’s insurance documents.\nmaintenance/: Contains maintenance records for the boat. This includes records from “280 Marine” and “Harris Performance”.\npictures/: Contains photos of the boat, including pictures of the house and starter batteries."
+  },
+  {
+    "objectID": "GEMINI.html#usage",
+    "href": "GEMINI.html#usage",
+    "title": "GEMINI.md: Bryant 233x Boat Management",
+    "section": "",
+    "text": "This directory is used as a central repository for all information related to the Bryant 233x boat. The checklists can be used to ensure safe and repeatable operations, and the other directories provide a place to store important records. The .qmd files in the checklists directory can be edited and re-rendered to produce updated PDF checklists."
+  },
+  {
+    "objectID": "Bryant233MarineAssistant.html",
+    "href": "Bryant233MarineAssistant.html",
+    "title": "SYSTEM CONTEXT: Hank’s Marine Assistant (Bryant 233X)",
+    "section": "",
+    "text": "Role: Expert Marine Mechanic & Operations Specialist for Auburn/Lake Martin area. Primary Asset: 2013 Bryant 233 X (Mercruiser 350 MAG / Bravo III). Owner: Hank. Current Location: Auburn, Alabama (Winter Storage). Current Status: WINTERIZED (On Trailer).\nCore Operating Principles: 1. Safety & Reliability First: All advice prioritizes passenger safety and the longevity of the engine/drive. 2. Owner’s Rep: Manage vendor relationships (specifically Jim @ 280 Marine), track quotes, and verify work orders. 3. No Beaching Policy: Strict adherence to “Offshore Anchoring” due to the Bravo III outdrive. 4. Specificity: Advice must be specific to the Mercruiser 350 MAG and Bravo III systems.\n\n\n\n\n\nVessel: 2013 Bryant 233 X (“Surf Edition”)\nEngine: Mercruiser 350 MAG MPI (300hp, V8).\nCooling: Raw Water Cooled (Open loop).\nDrive: Mercruiser Bravo III (Dual counter-rotating stainless props).\nFuel Capacity: 49 Gallons.\nFuel Requirement: 87 Octane Non-Ethanol (Preferred).\n\nProtocol: If E10 is used, STA-BIL 360 Marine is mandatory.\n\nKey Features: Integrated 3-bag ballast system, upgraded stereo, SeaDek flooring.\n\n\n\n\n\nMake: 2016 Magic Tilt Tandem Axle.\nTires: ST205/75R14 (5-lug pattern).\nHitch: 2” Ball.\nElectrical Connection: 5-Pin Flat.\n\nTow Vehicle Note: Hank’s F-150 requires a 7-way Round to 5-pin Flat adapter to activate the reverse lockout solenoid (prevents trailer brakes from locking when backing up).\n\n\n\n\n\n\n\n\n\nWinterization (Nov 2025): Engine block drained, propylene glycol run through raw water system, ballast pumps drained/cleared.\nThrottle/Shift Feel: Confirmed functional. Requires pushing slightly past the detent to engage forward gear. Verified by Jim @ 280 Marine as standard wear/design.\nMooring Cover: Rip patched with Gorilla Tape. Replacement deferred for 1-2 seasons.\n\n\n\n\n\nSteering Cable: Status: QUOTED. stiff operation. Needs replacement. Vendor: Jim @ 280 Marine.\nTrim Gauge: Status: QUOTED. Diagnosis confirmed faulty dashboard gauge (sender is likely fine). Vendor: Jim @ 280 Marine.\nManifolds & Risers: Status: MONITOR. Original hardware (12 years old). History is freshwater, so immediate replacement isn’t critical, but they are approaching end-of-life.\n\nAction: Monitor engine temps closely. Plan for “Joint Inspection” (pulling risers to check gasket surfaces) next off-season.\n\n\n\n\n\n\nBilge Float Switch: Status: UNKNOWN. Automatic function must be tested before launch.\nTrailer Tires: Status: INSPECT. Need to check 4-digit Date Codes on sidewalls. If &gt;6 years old, replace immediately regardless of tread depth.\nDocking Lights: Status: BROKEN. Starboard light inoperative (bulb confirmed good). Likely a ground/wiring fault behind the fixture.\n\n\n\n\n\n\n\n\n\nBlower Protocol: Run blower for minimum 4 minutes before key-turn. Perform “Sniff Test” of bilge.\nBattery Switch: Ensure switch is ON before launch.\nTrailer Depth: Do not submerge trailer past the fender tops (adjust for ramp steepness).\n\n\n\n\n\nDepth Requirement: Minimum 4 feet of water under the drive.\nMethod: Two-Anchor Setup.\n\nDrop Bow Anchor first upwind/current.\nBack down to set.\nDeploy Stern Anchor to prevent swing.\n\nShore Access: Ferry passengers and gear using a towable tube or raft.\nSwimming Safety: ABSOLUTELY NO swimming near the stern while the engine is running (CO poisoning risk).\n\n\n\n\n\nProcedure: Engine OFF, Blower ON, all passengers OFF the boat.\nAdditives: Add STA-BIL 360 before pumping fuel to ensure mixing.\n\n\n\n\n\n\n\nPrimary Mechanic: Jim @ 280 Marine.\nRelationship Status: Good. We trust his diagnosis on the Manifolds (Freshwater history) and the Shifter feel."
+  },
+  {
+    "objectID": "Bryant233MarineAssistant.html#assistant-persona-directives",
+    "href": "Bryant233MarineAssistant.html#assistant-persona-directives",
+    "title": "SYSTEM CONTEXT: Hank’s Marine Assistant (Bryant 233X)",
+    "section": "",
+    "text": "Role: Expert Marine Mechanic & Operations Specialist for Auburn/Lake Martin area. Primary Asset: 2013 Bryant 233 X (Mercruiser 350 MAG / Bravo III). Owner: Hank. Current Location: Auburn, Alabama (Winter Storage). Current Status: WINTERIZED (On Trailer).\nCore Operating Principles: 1. Safety & Reliability First: All advice prioritizes passenger safety and the longevity of the engine/drive. 2. Owner’s Rep: Manage vendor relationships (specifically Jim @ 280 Marine), track quotes, and verify work orders. 3. No Beaching Policy: Strict adherence to “Offshore Anchoring” due to the Bravo III outdrive. 4. Specificity: Advice must be specific to the Mercruiser 350 MAG and Bravo III systems."
+  },
+  {
+    "objectID": "Bryant233MarineAssistant.html#vessel-profile",
+    "href": "Bryant233MarineAssistant.html#vessel-profile",
+    "title": "SYSTEM CONTEXT: Hank’s Marine Assistant (Bryant 233X)",
+    "section": "",
+    "text": "Vessel: 2013 Bryant 233 X (“Surf Edition”)\nEngine: Mercruiser 350 MAG MPI (300hp, V8).\nCooling: Raw Water Cooled (Open loop).\nDrive: Mercruiser Bravo III (Dual counter-rotating stainless props).\nFuel Capacity: 49 Gallons.\nFuel Requirement: 87 Octane Non-Ethanol (Preferred).\n\nProtocol: If E10 is used, STA-BIL 360 Marine is mandatory.\n\nKey Features: Integrated 3-bag ballast system, upgraded stereo, SeaDek flooring."
+  },
+  {
+    "objectID": "Bryant233MarineAssistant.html#trailer-profile",
+    "href": "Bryant233MarineAssistant.html#trailer-profile",
+    "title": "SYSTEM CONTEXT: Hank’s Marine Assistant (Bryant 233X)",
+    "section": "",
+    "text": "Make: 2016 Magic Tilt Tandem Axle.\nTires: ST205/75R14 (5-lug pattern).\nHitch: 2” Ball.\nElectrical Connection: 5-Pin Flat.\n\nTow Vehicle Note: Hank’s F-150 requires a 7-way Round to 5-pin Flat adapter to activate the reverse lockout solenoid (prevents trailer brakes from locking when backing up)."
+  },
+  {
+    "objectID": "Bryant233MarineAssistant.html#maintenance-log-the-memory",
+    "href": "Bryant233MarineAssistant.html#maintenance-log-the-memory",
+    "title": "SYSTEM CONTEXT: Hank’s Marine Assistant (Bryant 233X)",
+    "section": "",
+    "text": "Winterization (Nov 2025): Engine block drained, propylene glycol run through raw water system, ballast pumps drained/cleared.\nThrottle/Shift Feel: Confirmed functional. Requires pushing slightly past the detent to engage forward gear. Verified by Jim @ 280 Marine as standard wear/design.\nMooring Cover: Rip patched with Gorilla Tape. Replacement deferred for 1-2 seasons.\n\n\n\n\n\nSteering Cable: Status: QUOTED. stiff operation. Needs replacement. Vendor: Jim @ 280 Marine.\nTrim Gauge: Status: QUOTED. Diagnosis confirmed faulty dashboard gauge (sender is likely fine). Vendor: Jim @ 280 Marine.\nManifolds & Risers: Status: MONITOR. Original hardware (12 years old). History is freshwater, so immediate replacement isn’t critical, but they are approaching end-of-life.\n\nAction: Monitor engine temps closely. Plan for “Joint Inspection” (pulling risers to check gasket surfaces) next off-season.\n\n\n\n\n\n\nBilge Float Switch: Status: UNKNOWN. Automatic function must be tested before launch.\nTrailer Tires: Status: INSPECT. Need to check 4-digit Date Codes on sidewalls. If &gt;6 years old, replace immediately regardless of tread depth.\nDocking Lights: Status: BROKEN. Starboard light inoperative (bulb confirmed good). Likely a ground/wiring fault behind the fixture."
+  },
+  {
+    "objectID": "Bryant233MarineAssistant.html#operational-sops-standard-operating-procedures",
+    "href": "Bryant233MarineAssistant.html#operational-sops-standard-operating-procedures",
+    "title": "SYSTEM CONTEXT: Hank’s Marine Assistant (Bryant 233X)",
+    "section": "",
+    "text": "Blower Protocol: Run blower for minimum 4 minutes before key-turn. Perform “Sniff Test” of bilge.\nBattery Switch: Ensure switch is ON before launch.\nTrailer Depth: Do not submerge trailer past the fender tops (adjust for ramp steepness).\n\n\n\n\n\nDepth Requirement: Minimum 4 feet of water under the drive.\nMethod: Two-Anchor Setup.\n\nDrop Bow Anchor first upwind/current.\nBack down to set.\nDeploy Stern Anchor to prevent swing.\n\nShore Access: Ferry passengers and gear using a towable tube or raft.\nSwimming Safety: ABSOLUTELY NO swimming near the stern while the engine is running (CO poisoning risk).\n\n\n\n\n\nProcedure: Engine OFF, Blower ON, all passengers OFF the boat.\nAdditives: Add STA-BIL 360 before pumping fuel to ensure mixing."
+  },
+  {
+    "objectID": "Bryant233MarineAssistant.html#vendor-contacts",
+    "href": "Bryant233MarineAssistant.html#vendor-contacts",
+    "title": "SYSTEM CONTEXT: Hank’s Marine Assistant (Bryant 233X)",
+    "section": "",
+    "text": "Primary Mechanic: Jim @ 280 Marine.\nRelationship Status: Good. We trust his diagnosis on the Manifolds (Freshwater history) and the Shifter feel."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "maintenance/active-issues.html",
+    "href": "maintenance/active-issues.html",
+    "title": "Bryant 233x Active Issues & Tasks",
+    "section": "",
+    "text": "Active Issues & Maintenance Tasks\nDerived from the Bryant 233X Marine Assistant logs.\n\n\n\n\n\n\n\n\n\nItem\nStatus\nPriority\nAction / Notes\n\n\n\n\nBilge Float Switch\n🔴 Unknown\nCRITICAL\nTest before launch. Verify automatic function.\n\n\nTrailer Tires\n🔴 Inspect\nCRITICAL\nCheck 4-digit Date Codes on sidewalls. If &gt;6 years old, replace immediately.\n\n\nSteering Cable\n🟢 Completed\nClosed\nReplaced. Invoice: maintenance/280_Marine/steeringCableReplacement1204_280Marine.pdf\n\n\nTrim Gauge\n🟡 Quoted\nMedium\nDiagnosis confirmed faulty dashboard gauge. Quote from Jim @ 280 Marine.\n\n\nDocking Lights\n🔴 Broken\nLow\nStarboard light inoperative. Bulb good, likely wiring/ground fault.\n\n\nManifolds & Risers\n🟡 Monitor\nLow\nOriginal hardware (12 yrs). Freshwater history. Plan “Joint Inspection” next off-season. Monitor temps.\n\n\nMooring Cover\n🟢 Patched\nLow\nRip patched with Gorilla Tape. Replacement deferred 1-2 seasons.\n\n\nThrottle/Shift Feel\n🟢 Resolved\nClosed\nVerified by Jim @ 280 Marine as standard wear/design.\n\n\nWinterization 2025\n🟢 Completed\nClosed\nEngine block drained, propylene glycol run, ballast pumps cleared."
+  },
+  {
+    "objectID": "maintenance/maintenance-todos.html",
+    "href": "maintenance/maintenance-todos.html",
+    "title": "Bryant 233x Maintenance Todos",
+    "section": "",
+    "text": "Maintenance To-Do List\nThis document tracks maintenance tasks for the Bryant 233x boat, including their priority and current status.\n\n\n\n\n\n\n\n\n\nTo-Do Item\nPriority\nStatus\nNotes\n\n\n\n\nCheck engine oil\nHigh\nPending\nBefore every outing\n\n\nInspect trailer tires\nMedium\nPending\nBefore every tow\n\n\nWinterize engine\nHigh\nCompleted\nDone in Fall 2025 by 280 Marine\n\n\nReplace starter battery\nMedium\nPending\nBattery is 3 years old\n\n\nClean bilge\nLow\nIn Progress\n\n\n\nCheck navigation lights\nMedium\nPending\nEnsure all lights are functional\n\n\nWax hull\nLow\nPending\nAnnually, usually in Spring\n\n\nCheck prop for damage\nHigh\nPending\nAfter every outing, if shallow water used\n\n\nInspect trailer lights\nMedium\nPending\nBefore every tow\n\n\nFlush engine after saltwater use\nHigh\nPending\nCritical for engine longevity"
+  },
+  {
+    "objectID": "maintenance/trailer.html",
+    "href": "maintenance/trailer.html",
+    "title": "Trailer Profile: 2016 Magic Tilt",
+    "section": "",
+    "text": "Trailer: 2016 Magic Tilt Tandem Axle\nVessel: 2013 Bryant 233 X\n\n\n\nMake: Magic Tilt\nYear: 2016\nType: Tandem Axle Aluminum I-Beam (Assumed based on typical Magic Tilt construction for this class, verify visual)\nTire Size: ST205/75R14\nLug Pattern: 5-Lug\nHitch Size: 2” Ball\nElectrical: 5-Pin Flat\n\n\n\n\n\nVehicle: Ford F-150\nAdapter: 7-way Round to 5-pin Flat adapter is REQUIRED.\n\nReason: The 5th pin activates the reverse lockout solenoid on the trailer tongue. Without this, the trailer brakes will lock up when backing up (especially uphill).\n\nTongue: Folding tongue (must be secured for towing).\nTie-Downs: Two (2) Transom Ratchet Straps (Frame to Stern Eyes).\n\n\n\n\n\n\n\n\n\n\n\n\n\nComponent\nStatus\nPriority\nNotes\n\n\n\n\nTires\n🔴 INSPECT\nCRITICAL\nAction: Check 4-digit Date Codes on all 4 sidewalls. If &gt;6 years old, replace immediately regardless of tread. Size: ST205/75R14.\n\n\nBearings\n🟡 Monitor\nHigh\nAction: Check hub temps after 15 mins of highway driving. Should be warm to touch, NOT hot. Grease annually.\n\n\nBrakes\n🟡 Monitor\nMedium\nReverse lockout solenoid requires 5-pin connection. Check fluid level in tongue actuator.\n\n\nLights\n🟡 Monitor\nMedium\nLED lights. Unplug before backing into water (prevents thermal shock if not sealed perfectly).\n\n\nWinch Strap\n🟢 Good\nLow\nInspect for fraying.\n\n\n\n\n\n\n\nBacking Up: If brakes lock up, check the electrical connection. If the truck plug is dead, use the manual “lockout key” (if available) or insert a pin/coin into the side of the tongue actuator to physically block compression.\nLaunch Depth: Do not submerge trailer past the fender tops. Adjust for ramp steepness.\nStorage: Chock wheels. Leave brake actuator uncompressed."
+  },
+  {
+    "objectID": "maintenance/trailer.html#specifications",
+    "href": "maintenance/trailer.html#specifications",
+    "title": "Trailer Profile: 2016 Magic Tilt",
+    "section": "",
+    "text": "Make: Magic Tilt\nYear: 2016\nType: Tandem Axle Aluminum I-Beam (Assumed based on typical Magic Tilt construction for this class, verify visual)\nTire Size: ST205/75R14\nLug Pattern: 5-Lug\nHitch Size: 2” Ball\nElectrical: 5-Pin Flat"
+  },
+  {
+    "objectID": "maintenance/trailer.html#towing-requirements",
+    "href": "maintenance/trailer.html#towing-requirements",
+    "title": "Trailer Profile: 2016 Magic Tilt",
+    "section": "",
+    "text": "Vehicle: Ford F-150\nAdapter: 7-way Round to 5-pin Flat adapter is REQUIRED.\n\nReason: The 5th pin activates the reverse lockout solenoid on the trailer tongue. Without this, the trailer brakes will lock up when backing up (especially uphill).\n\nTongue: Folding tongue (must be secured for towing).\nTie-Downs: Two (2) Transom Ratchet Straps (Frame to Stern Eyes)."
+  },
+  {
+    "objectID": "maintenance/trailer.html#maintenance-log-status",
+    "href": "maintenance/trailer.html#maintenance-log-status",
+    "title": "Trailer Profile: 2016 Magic Tilt",
+    "section": "",
+    "text": "Component\nStatus\nPriority\nNotes\n\n\n\n\nTires\n🔴 INSPECT\nCRITICAL\nAction: Check 4-digit Date Codes on all 4 sidewalls. If &gt;6 years old, replace immediately regardless of tread. Size: ST205/75R14.\n\n\nBearings\n🟡 Monitor\nHigh\nAction: Check hub temps after 15 mins of highway driving. Should be warm to touch, NOT hot. Grease annually.\n\n\nBrakes\n🟡 Monitor\nMedium\nReverse lockout solenoid requires 5-pin connection. Check fluid level in tongue actuator.\n\n\nLights\n🟡 Monitor\nMedium\nLED lights. Unplug before backing into water (prevents thermal shock if not sealed perfectly).\n\n\nWinch Strap\n🟢 Good\nLow\nInspect for fraying."
+  },
+  {
+    "objectID": "maintenance/trailer.html#operational-tips",
+    "href": "maintenance/trailer.html#operational-tips",
+    "title": "Trailer Profile: 2016 Magic Tilt",
+    "section": "",
+    "text": "Backing Up: If brakes lock up, check the electrical connection. If the truck plug is dead, use the manual “lockout key” (if available) or insert a pin/coin into the side of the tongue actuator to physically block compression.\nLaunch Depth: Do not submerge trailer past the fender tops. Adjust for ramp steepness.\nStorage: Chock wheels. Leave brake actuator uncompressed."
+  },
+  {
+    "objectID": "maintenance/project-guideposts.html",
+    "href": "maintenance/project-guideposts.html",
+    "title": "Project: Trailer Guidepost Installation",
+    "section": "",
+    "text": "Objective: Install rear guideposts on the 2016 Magic Tilt trailer to assist with centering the Bryant 233x during retrieval, especially in cross-currents or wind."
+  },
+  {
+    "objectID": "maintenance/project-guideposts.html#baseline-data",
+    "href": "maintenance/project-guideposts.html#baseline-data",
+    "title": "Project: Trailer Guidepost Installation",
+    "section": "1. Baseline Data",
+    "text": "1. Baseline Data\n\nTrailer: 2016 Magic Tilt Tandem Axle.\nFrame Type: Aluminum Square Tube (3” x 3” O.D., as measured).\nReference Image: pictures/bryant-trailer-rear crossbar-1.jpg.\n\nObservation: The image shows two (2) U-bolts on each side of the rear crossbar.\nU-bolt Dimensions: Inside dimensions of U-bolts are 1 1/8” x 1 1/8”, with approximately 22-24” of usable leg length/depth.\nHypothesis: These U-bolts may be retained hardware from a previous guidepost installation, potentially forming a mounting point or “socket” for guide post supports."
+  },
+  {
+    "objectID": "maintenance/project-guideposts.html#requirements-research",
+    "href": "maintenance/project-guideposts.html#requirements-research",
+    "title": "Project: Trailer Guidepost Installation",
+    "section": "2. Requirements & Research",
+    "text": "2. Requirements & Research\nTo select the correct kit, we need to determine:\n\nExisting Hardware Feasibility:\n\nCan we reuse the existing U-bolts? Yes, confirmed.\nStrategy: Measurements confirm a 1.5” x 1.5” square aluminum tubing will fit securely within the 1 1/8” U-bolt opening.\nBenefit: If feasible, we only need to buy the tubing and PVC pipes, saving money on the mounting kit.\n\nMounting Location: Rear crossbar.\nBeam Dimensions:\n\nCrossbar: 3” x 3” (Outside Diameter).\n\nGuide Post Height:\n\nNeed to be visible from the truck cab when the trailer is submerged.\nTypical heights: 40”, 60”.\n\nMaterial:\n\nPVC (white/black) - Rolls freely.\nCarpeted Bunks - Provides friction/support but harder to center if far off.\n\nLights: Do we want LED pipe-lights on top? (Requires wiring integration)."
+  },
+  {
+    "objectID": "maintenance/project-guideposts.html#action-plan",
+    "href": "maintenance/project-guideposts.html#action-plan",
+    "title": "Project: Trailer Guidepost Installation",
+    "section": "3. Action Plan",
+    "text": "3. Action Plan\n\nInspect U-Bolts (High Priority):\n\nVerify the measured U-bolt dimensions (1 1/8” x 1 1/8” I.D. and 22-24” depth).\nCheck for rust/corrosion on the threads.\n\nTest Fit: Fit confirmed: 1.5” x 1.5” square aluminum tubing will fit within the U-bolts.\nMeasure Boat/Trailer: Confirm desired guidepost width and height relative to the boat hull.\nSelect Kit/Parts:\n\nScenario A (Reuse U-bolts): Buy 1.5” x 1.5” Square Aluminum Tubing + PVC Pipe + Caps.\nScenario B (New Brackets): Buy full Guide Post Kit compatible with 3” x 3” square trailer beams.\n\nOrder: Purchase materials.\nInstall:\n\nMount hardware/tubing.\nAdjust width to fit the boat hull (leave ~1 inch gap on each side).\nTest fit at the ramp."
+  },
+  {
+    "objectID": "maintenance/project-guideposts.html#potential-products",
+    "href": "maintenance/project-guideposts.html#potential-products",
+    "title": "Project: Trailer Guidepost Installation",
+    "section": "4. Potential Products",
+    "text": "4. Potential Products\n\nMagic Tilt OEM Parts: Check Magic Tilt catalog for square beam specific mounting brackets.\nAftermarket (C.E. Smith / Smith Guides): Verify “Square Beam Clamp” availability."
+  },
+  {
+    "objectID": "maintenance/project-guideposts.html#log",
+    "href": "maintenance/project-guideposts.html#log",
+    "title": "Project: Trailer Guidepost Installation",
+    "section": "5. Log",
+    "text": "5. Log\n\nStatus: Planning / Measurement Phase."
+  }
+]

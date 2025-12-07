@@ -1,0 +1,44 @@
+---
+title: "Trailer Profile: 2016 Magic Tilt"
+format: html
+editor: visual
+---
+
+# Trailer Profile
+
+**Trailer:** 2016 Magic Tilt Tandem Axle\
+**Vessel:** 2013 Bryant 233 X
+
+## Specifications
+
+-   **Make:** Magic Tilt
+-   **Year:** 2016
+-   **Type:** Tandem Axle Aluminum I-Beam (Assumed based on typical Magic Tilt construction for this class, verify visual)
+-   **Tire Size:** ST205/75R14
+-   **Lug Pattern:** 5-Lug
+-   **Hitch Size:** 2" Ball
+-   **Electrical:** 5-Pin Flat
+
+## Towing Requirements
+
+-   **Vehicle:** Ford F-150
+-   **Adapter:** **7-way Round to 5-pin Flat adapter** is REQUIRED.
+    -   *Reason:* The 5th pin activates the reverse lockout solenoid on the trailer tongue. Without this, the trailer brakes will lock up when backing up (especially uphill).
+-   **Tongue:** Folding tongue (must be secured for towing).
+-   **Tie-Downs:** Two (2) Transom Ratchet Straps (Frame to Stern Eyes).
+
+## Maintenance Log & Status
+
+| Component | Status | Priority | Notes |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **Tires** | 🔴 **INSPECT** | **CRITICAL** | **Action:** Check 4-digit Date Codes on all 4 sidewalls. If \>6 years old, replace immediately regardless of tread. Size: ST205/75R14. |
+| **Bearings** | 🟡 Monitor | High | **Action:** Check hub temps after 15 mins of highway driving. Should be warm to touch, NOT hot. Grease annually. |
+| **Brakes** | 🟡 Monitor | Medium | Reverse lockout solenoid requires 5-pin connection. Check fluid level in tongue actuator. |
+| **Lights** | 🟡 Monitor | Medium | LED lights. Unplug before backing into water (prevents thermal shock if not sealed perfectly). |
+| **Winch Strap** | 🟢 Good | Low | Inspect for fraying. |
+
+## Operational Tips
+
+-   **Backing Up:** If brakes lock up, check the electrical connection. If the truck plug is dead, use the manual "lockout key" (if available) or insert a pin/coin into the side of the tongue actuator to physically block compression.
+-   **Launch Depth:** Do not submerge trailer past the fender tops. Adjust for ramp steepness.
+-   **Storage:** Chock wheels. Leave brake actuator uncompressed.

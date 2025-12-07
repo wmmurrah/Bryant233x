@@ -1,0 +1,59 @@
+---
+title: "Project: Trailer Guidepost Installation"
+format: html
+---
+
+**Objective:** Install rear guideposts on the 2016 Magic Tilt trailer to assist with centering the Bryant 233x during retrieval, especially in cross-currents or wind.
+
+## 1. Baseline Data
+
+-   **Trailer:** 2016 Magic Tilt Tandem Axle.
+-   **Frame Type:** Aluminum Square Tube (3" x 3" O.D., as measured).
+-   **Reference Image:** `pictures/bryant-trailer-rear crossbar-1.jpg`.
+    -   **Observation:** The image shows two (2) U-bolts on each side of the rear crossbar.
+    -   **U-bolt Dimensions:** Inside dimensions of U-bolts are 1 1/8" x 1 1/8", with approximately 22-24" of usable leg length/depth.
+    -   **Hypothesis:** These U-bolts may be retained hardware from a previous guidepost installation, potentially forming a mounting point or "socket" for guide post supports.
+
+## 2. Requirements & Research
+
+To select the correct kit, we need to determine:
+
+-   **Existing Hardware Feasibility:**
+    -   Can we reuse the existing U-bolts? **Yes, confirmed.**
+    -   **Strategy:** Measurements confirm a 1.5" x 1.5" square aluminum tubing will fit securely within the 1 1/8" U-bolt opening.
+    -   *Benefit:* If feasible, we only need to buy the tubing and PVC pipes, saving money on the mounting kit.
+-   **Mounting Location:** Rear crossbar.
+-   **Beam Dimensions:**
+    -   Crossbar: 3" x 3" (Outside Diameter).
+-   **Guide Post Height:**
+    -   Need to be visible from the truck cab when the trailer is submerged.
+    *   Typical heights: 40", 60".
+-   **Material:**
+    -   PVC (white/black) - Rolls freely.
+    -   Carpeted Bunks - Provides friction/support but harder to center if far off.
+-   **Lights:** Do we want LED pipe-lights on top? (Requires wiring integration).
+
+## 3. Action Plan
+
+1.  [ ] **Inspect U-Bolts (High Priority):**
+    -   Verify the measured U-bolt dimensions (1 1/8" x 1 1/8" I.D. and 22-24" depth).
+    -   Check for rust/corrosion on the threads.
+2.  [ ] **Test Fit:** **Fit confirmed:** 1.5" x 1.5" square aluminum tubing will fit within the U-bolts.
+3.  [ ] **Measure Boat/Trailer:** Confirm desired guidepost width and height relative to the boat hull.
+4.  [ ] **Select Kit/Parts:**
+    -   *Scenario A (Reuse U-bolts):* Buy 1.5" x 1.5" Square Aluminum Tubing + PVC Pipe + Caps.
+    -   *Scenario B (New Brackets):* Buy full Guide Post Kit compatible with 3" x 3" square trailer beams.
+5.  [ ] **Order:** Purchase materials.
+6.  [ ] **Install:**
+    -   Mount hardware/tubing.
+    -   Adjust width to fit the boat hull (leave ~1 inch gap on each side).
+    -   Test fit at the ramp.
+
+## 4. Potential Products
+
+-   *Magic Tilt OEM Parts:* Check Magic Tilt catalog for square beam specific mounting brackets.
+-   *Aftermarket (C.E. Smith / Smith Guides):* Verify "Square Beam Clamp" availability.
+
+## 5. Log
+
+-   **Status:** Planning / Measurement Phase.
